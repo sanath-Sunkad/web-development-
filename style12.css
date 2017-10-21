@@ -1,0 +1,54 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background:#eee;
+	background-image:url(wd/reg1.png);
+	background-repeat:no-repeat;
+}
+.header{
+	background-color:#054a83;
+	color: white;
+	text-align: center;
+	top:0px;
+	width:100%;
+	padding: 5px;
+}
+.textInput{
+	margin-top:2px;
+	height: 28px;
+	border: 2px solid #5E6E66;
+	font-size: 16px;
+	padding: 2px;
+	width:100%;
+}
+#error_msg{
+	width: 50%;  
+	margin: 5px auto; 
+	height: 30px; 
+	border: 1px solid #FF0000; 
+	background: #FFB9B8; 
+	color: #FF0000;
+	text-align: center;
+	padding-top: 10px;
+}
+td {
+	text-align: right;
+}
+#log{
+	color:#fff;
+	background:#337ab7;
+	padding:5px;
+	margin-left:69%;
+	margin-top:10px;
+	
+}
+.ac
+{
+	text-decoration:none;
+	color:#054a83;
+}
+form{
+	width: 20%;
+	padding: 20px;
+	margin:-10px 1000px;
+}
